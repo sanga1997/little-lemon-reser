@@ -1,0 +1,37 @@
+
+.reservation-form {
+    background-color: #f4f4f4;
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+    width: 300px;
+    margin: 30px;
+  }
+  
+  .reservation-form h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .reservation-form input {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .submit-button {
+    background-color: #ffaa00;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .reservation-form select {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 97%;
+  }
